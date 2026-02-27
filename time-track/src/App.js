@@ -80,7 +80,17 @@ function App() {
     'Consulting',
     'Architecting',
     'Personal',
-    'Other'
+    'Other',
+    'Childcare',
+    'Parenting',
+    'Applying',
+    'FinOps',
+    'Meetings',
+    'Multitasking',
+    'Testing',
+    'Testing Additional',
+    'Penultimate',
+    'Last One'
   ];
 
   const formatMinutes = (totalMinutes) => {
