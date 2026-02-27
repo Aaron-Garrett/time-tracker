@@ -22,7 +22,7 @@
         - One in the browser
         - One in Electron
 4. :electron: Use the electron window for tracking your day
-5. :stopsign: When you are done tracking for a period and want to reset the clock(s) hit "Stop"
+5. :stop_sign: When you are done tracking for a period and want to reset the clock(s) hit "Stop"
     - This will update the TimeTracker.xlsx file in your Documents folder with your tracked activities
     - This will reset the timers
 
