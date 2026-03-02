@@ -6,8 +6,10 @@ function App() {
   const [timeEntries, setTimeEntries] = useState([]);
   const [statusMessage, setStatusMessage] = useState('No workbook connected.');
   const activities = [
+    'EDB Operations',
     'Autonomous Ops',
     'Software Development',
+    'Preparing',
     'Consulting',
     'Architecting',
     'Personal',
